@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Naveen
+- 👋 Hi, I’m Naveen, working in Capagemini in Insights & Data Analytics BU as Power BI Admin with 5+ years of experience.
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning Microsoft Fabric
 - :) You can ask me about Power BI Administration topics
